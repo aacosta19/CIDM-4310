@@ -46,8 +46,10 @@ coverage.xml
 target/
 
 # Jupyter Notebook
-*_env/ipynb_checkpoints
 .ipynb_checkpoints
+*_env/ipynb_checkpoints
+.env/ipynb_checkpoints
+.env/.ipynb_checkpoints
 
 # IPython
 profile_default/
